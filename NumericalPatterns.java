@@ -16,29 +16,4 @@ public class NumericalPatterns{
 	
 	}
 
-
-	System.out.println();
-
-	System.out.println();
-
-
-	for(int counterR = 6; counterR >= 1; counterR -= 1){  
-
-		for(int counterC = 1; counterC <= counterR; counterC+= 1){
-
-			System.out.print(" " + counterC);
-		
-		}
-
-		System.out.println();
-	
-	}
-
-
-	System.out.println();
-
-
-
-
-
 }}
