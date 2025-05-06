@@ -1,0 +1,23 @@
+Ask the user to input a number between 0 and 1000
+
+read number
+
+limit the numbers to > 0 and < 1000.
+
+get the 'unit' part of the number by using modulo 10 on the number
+divide the number by 10 to get the quotent(remaining number after removing the unit)
+
+get the 'tenth' part of the number by using modulo 10 on the remaining number
+divide the number by 10 to get the quotent(remaining number after removing the tenth)
+
+get the 'hundredth' part of the number by using modulo 10 on the remaining number
+divide the number by 10 to get the quotent(remaining number after removing the hundredth)
+
+sum = digit 1 + digit 2 + digit 3 
+
+print sum.
+
+remainder /= 10     remainder = remainder / 10
+
+
+
